@@ -31,8 +31,13 @@ Init python environment
 
 ## Run 
 
+>**Note:** The _detail instruction_ will be updated soon (after the EMNLP2026 conf)!! 
 ```bash 
+# Step 1: Extract AIE matrix for ranking top-k FV heads
+bash bash_scripts/run_dump_aie.sh
 
+# Step 2: Inject FV to the fewshot experiments across difference language. 
+bash bash_scripts/run_fs.sh
 ```
 
 ## Citation 
