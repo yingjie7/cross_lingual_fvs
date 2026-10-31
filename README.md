@@ -42,13 +42,25 @@ bash bash_scripts/run_fs.sh
 
 ## Citation 
 ```bibtex
-@inproceedings{xue-etal-2026-crosslingfv,
-  title = "{Cross-lingual Functional Vectors for Emotion Detection in Large Language Models}",
-  author = "Xue, Jieying and Nguyen, Phuong Minh and Nguyen, Minh Le and Okada, Shogo",
-  booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
-  month = oct,
-  year = "2026",
-  publisher = "Association for Computational Linguistics"
+@inproceedings{jieying-etal-2026-cross,
+    title = "Cross-lingual Functional Vectors for Emotion Detection in Large Language Models",
+    author = "Jieying, Xue  and
+      Nguyen, Phuong Minh  and
+      Nguyen, Le-Minh  and
+      Okada, Shogo",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.2030/",
+    doi = "10.18653/2026.findings-emnlp.2030",
+    pages = "43213--43225",
+    ISBN = "979-8-89176-462-0"
 }
 ```
   
